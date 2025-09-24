@@ -20,15 +20,3 @@ Booth's algorithm encodes the multiplier to minimize the number of addition/subt
 
 This results in efficient multiplication, especially for numbers with consecutive 1s.
 
-## File Structure
-
-- `booth_multiplier.v` or `booth_multiplier.vhdl`: Main source code for the multiplier.
-- `testbench.v` or `testbench.vhdl`: Testbench for simulation and verification.
-- `README.md`: This documentation.
-- `results/`: May include waveform images or simulation results.
-
-## How to Use
-
-1. **Clone the repository:**
-   ```bash
-   git clone https://github.com/Agarwal-Pranav/multiplier_booth.git
